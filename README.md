@@ -1,7 +1,7 @@
 # README - Mô tả chi tiết bộ bài Seminar chuyên đề
 
 ## Thông tin thực hiện
-- Giáo viên hướng dẫn: TS. Đỗ Như Tài
+- Giảng viên hướng dẫn: TS. Đỗ Như Tài
 - Sinh viên thực hiện: Trịnh Long Phát
 - Mã sinh viên: 3122411150
 - Lớp: DCT122C3
